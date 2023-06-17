@@ -26,6 +26,6 @@ ub=100;
 [best_fit,best_pos,convergence_curve]=ACSA(pop_size,max_iter,lb,ub,dim);
 
 plot(convergence_curve);
-title('Convergence curve of ICSA')
+title('Convergence curve of ACSA')
 xlabel('Iteration');
 ylabel('Objective function value');
