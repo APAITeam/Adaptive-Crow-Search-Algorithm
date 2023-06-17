@@ -8,8 +8,7 @@
 %                                                                                       %
 % Main paper:                                                                           %
 % Rezaei, K., Rezaei, H., Adaptive crow search algorithm and its application in solving 
-% constrained optimization problems,   %
-%Aquila Optimizer: A novel meta-heuristic optimization Algorithm, 3rd International 
+% constrained optimization problems, 3rd International 
 % Conference on Soft Computing (2019), 2260-2269
 %_______________________________________________________________________________________%
 
