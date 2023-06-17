@@ -2,8 +2,7 @@
 %  Adaptive crow search algorithm (ACSA) source codes                                   %
 %                                                                                       %
 %  Developed in MATLAB R2016b                                                           %
-%  Author and programmer: Kamran Rezaei                                                 %
-%  Rezaei, K, Rezaei, H,                                                                %
+%  programmer: Kamran Rezaei                                                 %
 %  e-Mail: kamran.rezaei6990@gmail.com                                                  %
 %                                                                                       %
 % Main paper:                                                                           %
